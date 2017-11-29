@@ -1,0 +1,10 @@
+hash: 84760ce7ba35ebf863e6da201bf916a537e195293e1031666940a4f6167a100b
+updated: 2017-11-29T23:16:57.876694+08:00
+imports:
+- name: github.com/stretchr/testify
+  version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
+  subpackages:
+  - mock
+- name: gopkg.in/urfave/cli.v1
+  version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+testImports: []
